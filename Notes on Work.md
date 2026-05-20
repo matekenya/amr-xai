@@ -1,0 +1,9 @@
+Notes on Work
+- Import the data (X_mice, X_median, target)
+- train_test_split
+- run for prediction models -> the best one the goes to the next level
+- Create the visualisation for the decision tree
+- create a function for reducing the number of features
+- Create two separate datasets one with all the features and the other with reduced features
+- The full feature set dataset from the dataset kept separately.
+- train a model to predit
