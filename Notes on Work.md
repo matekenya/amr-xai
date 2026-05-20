@@ -7,3 +7,5 @@ Notes on Work
 - Create two separate datasets one with all the features and the other with reduced features
 - The full feature set dataset from the dataset kept separately.
 - train a model to predit
+- Different function for train reduced
+- Trained model should run once then assign to the different vars
