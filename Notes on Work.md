@@ -9,3 +9,6 @@ Notes on Work
 - train a model to predit
 - Different function for train reduced
 - Trained model should run once then assign to the different vars
+- Explain all with 2000 records balanced
+- concept drift
+- meaningful grouping of dataset
